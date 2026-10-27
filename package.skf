@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-ascii"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Конвертация символа в ASCII-код и обратно."
+    репозиторий = "github.com/skytech-alt/skyforge-ascii"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
